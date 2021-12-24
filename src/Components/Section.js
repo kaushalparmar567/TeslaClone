@@ -31,7 +31,7 @@ function Section(props) {
 }
 
 export default Section
-{/*vw = viewWidth vh=viewHeight */ }
+
 const Wrap = styled.div`
 width: 100vw; 
 height: 100vh;
